@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dixiaoyang
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning github.
+- 😃 I hope you can take care of me.
